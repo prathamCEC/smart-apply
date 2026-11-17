@@ -1,0 +1,17 @@
+NAME: Alex Morgan
+
+EDUCATION:
+Bachelor of Computer Science
+
+SKILLS:
+Python, Java, SQL, Flask, Django,
+Pandas, NumPy, Git, REST APIs
+
+PROJECTS:
+Developed a Flask-based inventory
+management application using PostgreSQL.
+Built data analysis projects using Pandas
+and NumPy.
+
+EXPERIENCE:
+Internship in backend development.

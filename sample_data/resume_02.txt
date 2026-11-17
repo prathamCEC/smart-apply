@@ -1,0 +1,16 @@
+NAME: Sarah Williams
+
+EDUCATION:
+Bachelor of Information Technology
+
+SKILLS:
+JavaScript, React, HTML, CSS, Node.js,
+Express.js, MongoDB, Git, REST APIs
+
+PROJECTS:
+Developed a real-time chat application
+using React, Node.js and Socket.IO.
+Built responsive web applications.
+
+EXPERIENCE:
+Frontend development internship.

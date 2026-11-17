@@ -1,0 +1,18 @@
+NAME: David Lee
+
+EDUCATION:
+Bachelor of Computer Science
+
+SKILLS:
+Python, Machine Learning, Pandas,
+NumPy, Scikit-learn, Matplotlib,
+Seaborn, SQL, Data Visualization
+
+PROJECTS:
+Developed predictive analytics models
+using Scikit-learn.
+Performed exploratory data analysis
+and data visualization.
+
+EXPERIENCE:
+Academic machine learning projects.
